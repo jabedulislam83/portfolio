@@ -12,11 +12,12 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "Jabedul Islam | AI Research Portfolio",
   description:
     "AI Research Portfolio of Jabedul Islam - Machine Learning, Computer Vision, NLP, and Data Engineering.",
 };
+
 export default function RootLayout({
   children,
 }: Readonly<{

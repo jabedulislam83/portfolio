@@ -24,7 +24,7 @@ export default function Hero() {
           <div>
 
             <p className="text-lg font-medium text-cyan-400">
-              Hello, I'm
+              Hello, I&apos;m
             </p>
 
             <h1 className="mt-4 text-5xl font-extrabold tracking-tight text-white md:text-7xl">
@@ -94,7 +94,13 @@ export default function Hero() {
           </div>
 
         </div>  
+          {/* Stats */}
 
+        <div className="mt-24">
+
+          <HeroStats />
+
+        </div>
                 {/* Video CV */}
 
         <section
@@ -127,13 +133,7 @@ export default function Hero() {
           </div>
         </section>
 
-        {/* Stats */}
-
-        <div className="mt-24">
-
-          <HeroStats />
-
-        </div>
+        
 
       </div>
 
