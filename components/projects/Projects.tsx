@@ -58,7 +58,7 @@ const projects = [
   },
 
   {
-    title: "AI Disease Classification System",
+    title: "Skin Disease Classification System",
     category: "Artificial Intelligence",
     description:
       "An AI-powered disease classification framework using deep learning and computer vision techniques for medical image analysis.",

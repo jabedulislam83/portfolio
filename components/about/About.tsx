@@ -130,15 +130,15 @@ export default function About() {
                 </h3>
 
                 <p className="mt-2 text-gray-300">
-                  Your College Name
+                  Principal Kazi Faruky college
                 </p>
 
                 <p className="mt-2 text-gray-500">
-                  Passing Year
+                  Passing Year:2021
                 </p>
 
                 <p className="mt-2 font-medium text-cyan-400">
-                  GPA
+                  GPA: 4.83/5
                 </p>
 
               </div>
@@ -150,15 +150,15 @@ export default function About() {
                 </h3>
 
                 <p className="mt-2 text-gray-300">
-                  Your School Name
+                  Torabgonj High School
                 </p>
 
                 <p className="mt-2 text-gray-500">
-                  Passing Year
+                  Passing Year: 2019
                 </p>
 
                 <p className="mt-2 font-medium text-cyan-400">
-                  GPA
+                  GPA: 4.17/5
                 </p>
 
               </div>

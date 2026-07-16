@@ -3,7 +3,7 @@ export const siteConfig = {
 
   role: "AI Researcher",
 
-  subtitle: "Machine Learning Engineer",
+  subtitle: "Data Analyst",
 
   description:
     "Final-year Computer Science and Engineering student at AIUB with interests in Artificial Intelligence, Computer Vision, NLP, and Data Engineering.",
